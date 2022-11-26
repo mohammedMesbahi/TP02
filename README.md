@@ -15,3 +15,6 @@ La note attribuée pour une réponse dépend la complétude de celle-ci, il peut
 Pour les QCM il est possible de demander le degré de certitude (peu sûr, moyennement sûr, tout à fait sûr) pour chacune des réponses, cette information métacognitive peut être utilisée pour pondérer la note attribuée à une réponse selon une formule de calcule.
 
 La prestation d'un candidat qui a passé un examen est composée de l'ensemble des réponses aux questions constituant celui-ci.
+
+
+![image](https://user-images.githubusercontent.com/116631139/204088830-106ea9f3-491c-4e88-a834-9d4dfaa4e34b.png)
